@@ -1,4 +1,4 @@
-String Reversal Algorithm // Algorítimo de inversão de string
+String Reversal Algorithm // Algorítmo de inversão de string
 
 
 ENGLISH
