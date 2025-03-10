@@ -2,6 +2,8 @@ String Reversal Algorithm // Algorítmo de inversão de string
 
 
 ENGLISH
+
+
 This repository contains a simple yet efficient implementation of a string reversal algorithm. The algorithm reverses a character array in-place by swapping characters from both ends of the array until they meet in the middle.
 
 Implementation Details
@@ -17,6 +19,7 @@ Includes test cases demonstrating the algorithm's functionality
 
 
 PORTUGUÊS
+
 
 Este repositório contém uma implementação simples e eficiente de um algoritmo de inversão de strings. O algoritmo inverte um array de caracteres no próprio local (in-place) trocando caracteres das duas extremidades do array até que se encontrem no meio.
 
